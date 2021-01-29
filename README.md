@@ -8,7 +8,7 @@ The program can be found [AT THIS LINK](https://www.insticc.org/node/technicalpr
 
 # Lecture Slide
 
-TO BE ADDED
+**The lecture is being prepared and it will appear here before the 4th of February.**
 
 # Code
 
