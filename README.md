@@ -17,7 +17,7 @@ In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-
 - You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH. They are google slides and should be 
 accessible online easily.
 
-  [Lecture on Neural Network](https://docs.google.com/presentation/d/1QxcVIZsRENhjwjknIt5968ZLrsiaiEZyOG_qMiliyGI/edit?usp=sharing)
+  [Lecture on Neural Network](https://docs.google.com/presentation/d/1Lrutcr1NN_P0CS-5_xR5qaAqCdhqQ0liobOAA_9BZ0s/edit?usp=sharing)
   
 - At this repository in GitHub you can find the complete material of a course given by Umberto Michelucci at the University of Applied Science in Zürich in 2019. Note that the code is still a mixture of TensorFlow 1.x and 2.x (at the time TensorFlow 2.X was not as mature as now). 
 
