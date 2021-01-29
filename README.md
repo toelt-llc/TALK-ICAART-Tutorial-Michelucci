@@ -1,6 +1,6 @@
-# ICAART 2021 Conference - Tutorial by Michelucci Umberto
+# ICAART 2021 Conference - Tutorial by Michelucci Umberto 
 
-![Logo](https://github.com/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/ICAART%202021_logo.jpg)
+![Logo](https://github.com/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/ICAART%202021_logo.jpg) ![TOELT Logo](https://github.com/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/TOELT_Horizontal_V1_small.png)
 
 This repository contains the material for the tutorial for the ICAART 2021 Conference. This tutorial will take place on the 4th of February 2021 at 16:15-18:15 (Zürich Time). In case of any question you can reach me at umberto.michelucci@toelt.ai any time.
 
