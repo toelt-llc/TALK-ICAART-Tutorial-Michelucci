@@ -37,6 +37,7 @@ In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-
 
   [Deep Learning Course Material - 2019 - ZHAW - GitHub Repository](https://github.com/toelt-llc/zhaw-dlcourse-spring2019)
   
+  
 # Tensorflow 2.0 GitHub Repository  
 
 - A Github repository (by Umberto Michelucci) on how to approach TensorFlow 2.X. Here you can find how to study it, various examples and code that you can study and
@@ -49,6 +50,10 @@ try yourself.
 - In this presentation you can find the most important features of keras, the library now part of TensorFlow to build, develop and train neural networks. This is the library that we have used in all the examples.
 
   [Quick Introduction to Keras](https://docs.google.com/presentation/d/1TEYgiQHlPQl6mqUEMb5BKCt613R8HfwPax4G-AyLfdY/edit?usp=sharing)
+  
+# Convolutional Neural Networks
+
+[This GitHub Repository](https://github.com/toelt-llc/oreilly-london-ai) contains the two days workshop I held in London at the O'Reilly Conference on Convolutional Neural Network. There is lots of material (basic and advanced) for you to check out.
 
 # Copyright
 
