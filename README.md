@@ -12,7 +12,7 @@ The program can be found [AT THIS LINK](https://www.insticc.org/node/technicalpr
 
 # Code
 
-In this folder you will find examples in form of Jupyter Notebooks.
+In this folder you will find examples in form of Jupyter Notebooks. You don't need to install anything locally on your computer to try them out. Simply click on the link below, and they will open in Google Colab ([What is google colab](https://research.google.com/colaboratory/faq.html)). During the tutorial I will briefly cover what is google colab.
 
 [Classification with Keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Classification.ipynb)
 
