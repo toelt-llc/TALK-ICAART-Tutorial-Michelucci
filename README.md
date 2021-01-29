@@ -27,15 +27,19 @@ For those of you a bit more advanced, here is a notebook where you can play with
 
 In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) that you can find in this folder, you can find a very good introduction to Google Colab and what are Jupyter notebooks by Michela Sperti.
 
-# Neural Networks
+# Neural Networks Lectures and Material
 
 - You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH in Zürich, Switzerland. They are google slides and should be accessible online easily.
 
   [Lecture on Neural Network](https://docs.google.com/presentation/d/1Lrutcr1NN_P0CS-5_xR5qaAqCdhqQ0liobOAA_9BZ0s/edit?usp=sharing)
   
-- At this repository in GitHub you can find the complete material of a course given by Umberto Michelucci at the University of Applied Science in Zürich in 2019. Note that the code is still a mixture of TensorFlow 1.x and 2.x (at the time TensorFlow 2.X was not as mature as now). 
+- In this repository in GitHub you can find the complete material of a course given by Umberto Michelucci at the University of Applied Science in Zürich in 2019. Note that the code is still a mixture of TensorFlow 1.x and 2.x (at the time TensorFlow 2.X was not as mature as now). 
 
   [Deep Learning Course Material - 2019 - ZHAW - GitHub Repository](https://github.com/toelt-llc/zhaw-dlcourse-spring2019)
+ 
+- In this repository in GitHub you can find the material for a series of 4 seminars for PhD students at the [ETH](https://ethz.ch/de.html) in Zürich at the [exo-planets Astrophysics Department](https://quanz-group.ethz.ch) with [Prof. S. Quanz](https://www.phys.ethz.ch/the-department/people/person-detail.MTY1MzQ3.TGlzdC84NDIsMTE3MjU5OTI5OQ==.html).
+
+  [ETH Zürich Machine learning and Astrophysics Hack-days](https://github.com/toelt-llc/astroml-hackdays) 
   
   
 # Tensorflow 2.0 GitHub Repository  
