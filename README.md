@@ -50,5 +50,9 @@ try yourself.
 
   [Quick Introduction to Keras](https://docs.google.com/presentation/d/1TEYgiQHlPQl6mqUEMb5BKCt613R8HfwPax4G-AyLfdY/edit?usp=sharing)
 
+# Copyright
 
+The material is (C) 2021 of Umberto Michelucci, co-founder and chief AI Scientist [www.toelt.ai](www.toelt.ai).
+
+![TOELT Logo](https://github.com/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/TOELT_Horizontal_V1_small.png)
 
