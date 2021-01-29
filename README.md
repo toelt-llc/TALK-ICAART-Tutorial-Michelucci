@@ -41,6 +41,10 @@ In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-
 
   [ETH Zürich Machine learning and Astrophysics Hack-days](https://github.com/toelt-llc/astroml-hackdays) 
   
+- I am working on the 2nd edition of my book [Applied Deep Learning by Apress](https://www.apress.com/gp/book/9781484237892). It will come out in 2022 but there is an online version that will grow in 2021 with more and more material. You can check it out here
+
+  [Applied Deep Learning Book - 2nd Edition online version](https://adl.toelt.ai)
+  
   
 # Tensorflow 2.0 GitHub Repository  
 
