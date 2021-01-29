@@ -4,6 +4,18 @@
 
 This repository contains the material for the tutorial for the ICAART 2021 Conference.
 
+# Lecture Slide
+
+TO BE ADDED
+
+# Code
+
+In this folder you will find examples in form of Jupyter Notebooks.
+
+[Classification with Keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Classification.ipynb)
+
+
+
 # Fundamentals
 
 In this folder you will find material and lectures that can help you while learning how neural networks works (theoretically and practically).
