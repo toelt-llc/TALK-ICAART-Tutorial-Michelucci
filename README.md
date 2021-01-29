@@ -4,6 +4,8 @@
 
 This repository contains the material for the tutorial for the ICAART 2021 Conference. This tutorial will take place on the 4th of February 2021 at 16:15-18:15 (Zürich Time). In case of any question you can reach me at umberto.michelucci@toelt.ai any time.
 
+The program can be found [AT THIS LINK](https://www.insticc.org/node/technicalprogram/icaart/2021).
+
 # Lecture Slide
 
 TO BE ADDED
