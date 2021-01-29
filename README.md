@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/ICAART%202021_logo.jpg)
 
-This repository contains the material for the tutorial for the ICAART 2021 Conference.
+This repository contains the material for the tutorial for the ICAART 2021 Conference. This tutorial will take place on the 4th of February 2021 at 16:15-18:15 (Zürich Time). In case of any question you can reach me at umberto.michelucci@toelt.ai any time.
 
 # Lecture Slide
 
@@ -18,7 +18,7 @@ In this folder you will find examples in form of Jupyter Notebooks.
 
 For those of you a bit more advanced, here is a notebook where you can play with your first autoencoder
 
-[Your first Network with keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
+[Your first Autoencoder with keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
 
 
 # Fundamentals
@@ -54,9 +54,4 @@ try yourself.
   [Quick Introduction to Keras](https://docs.google.com/presentation/d/1TEYgiQHlPQl6mqUEMb5BKCt613R8HfwPax4G-AyLfdY/edit?usp=sharing)
 
 
-## Examples
 
-If you know a bit of Python you can get your hands dirty with a very basic examples of image classification and Keras with this Jupyter notebook (it will open
-itself in Google Colab, so no need to download or install anything)
-
-[First Easy Image Classification with Keras](https://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/Fundamentals/code/Easy%20NN%20with%20Keras.ipynb)
