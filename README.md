@@ -31,8 +31,7 @@ In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-
 
 ## Neural Networks
 
-- You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH. They are google slides and should be 
-accessible online easily.
+- You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH in Zürich, Switzerland. They are google slides and should be accessible online easily.
 
   [Lecture on Neural Network](https://docs.google.com/presentation/d/1Lrutcr1NN_P0CS-5_xR5qaAqCdhqQ0liobOAA_9BZ0s/edit?usp=sharing)
   
