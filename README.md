@@ -14,6 +14,11 @@ In this folder you will find examples in form of Jupyter Notebooks.
 
 [Classification with Keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Classification.ipynb)
 
+[Your first Network with keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Easy%20NN%20with%20Keras.ipynb)
+
+For those of you a bit more advanced, here is a notebook where you can play with your first autoencoder
+
+[Your first Network with keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
 
 
 # Fundamentals
