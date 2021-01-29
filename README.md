@@ -23,15 +23,11 @@ For those of you a bit more advanced, here is a notebook where you can play with
 [Your first Autoencoder with keras](https://colab.research.google.com/github/toelt-llc/ICAART-Tutorial-Michelucci/blob/main/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
 
 
-# Fundamentals
-
-In this folder you will find material and lectures that can help you while learning how neural networks works (theoretically and practically).
-
-## Tools
+# Tools
 
 In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) that you can find in this folder, you can find a very good introduction to Google Colab and what are Jupyter notebooks by Michela Sperti.
 
-## Neural Networks
+# Neural Networks
 
 - You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH in Zürich, Switzerland. They are google slides and should be accessible online easily.
 
@@ -41,14 +37,14 @@ In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-
 
   [Deep Learning Course Material - 2019 - ZHAW - GitHub Repository](https://github.com/toelt-llc/zhaw-dlcourse-spring2019)
   
-## Tensorflow 2.0 GitHub Repository  
+# Tensorflow 2.0 GitHub Repository  
 
 - A Github repository (by Umberto Michelucci) on how to approach TensorFlow 2.X. Here you can find how to study it, various examples and code that you can study and
 try yourself.
 
   [Notes on TensorFlow 2.0 - GitHub Repository](https://github.com/toelt-llc/TensorFlow20-Notes)
   
-## Kera Introducton
+# Kera Introducton
 
 - In this presentation you can find the most important features of keras, the library now part of TensorFlow to build, develop and train neural networks. This is the library that we have used in all the examples.
 
